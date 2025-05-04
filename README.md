@@ -1,2 +1,2 @@
-# Meety - A Video Conferencing App
+Video-Conferencing-App
 
