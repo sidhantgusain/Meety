@@ -1,2 +1,2 @@
-Meety - a video conferencing app
+Meety - a video conferencing application
 
